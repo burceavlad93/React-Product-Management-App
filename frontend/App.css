@@ -1,0 +1,43 @@
+footer {
+  text-align: center;
+}
+
+#header-secondPage {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+#header-mainPage {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+#product_form {
+  margin-left: 50px;
+  margin-top: 25px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.button-container {
+  display: flex;
+  gap: 20px;
+}
+
+.content {
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
